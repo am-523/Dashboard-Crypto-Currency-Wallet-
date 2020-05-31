@@ -1,0 +1,111 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Dashboard Crypto Currency Wallet
+</name>
+</assembly>
+<members>
+<member name="T:Dashboard_Crypto_Currency_Wallet.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Dashboard_Crypto_Currency_Wallet.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Dashboard_Crypto_Currency_Wallet.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Dashboard_Crypto_Currency_Wallet.My.Resources.Resources.add_60px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Dashboard_Crypto_Currency_Wallet.My.Resources.Resources.bank_cards_52px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Dashboard_Crypto_Currency_Wallet.My.Resources.Resources.btc">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Dashboard_Crypto_Currency_Wallet.My.Resources.Resources.data_transfer_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Dashboard_Crypto_Currency_Wallet.My.Resources.Resources.eth">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Dashboard_Crypto_Currency_Wallet.My.Resources.Resources.full_screen_96px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Dashboard_Crypto_Currency_Wallet.My.Resources.Resources.futures_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Dashboard_Crypto_Currency_Wallet.My.Resources.Resources.Group_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Dashboard_Crypto_Currency_Wallet.My.Resources.Resources.increase_48px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Dashboard_Crypto_Currency_Wallet.My.Resources.Resources.litecoin">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Dashboard_Crypto_Currency_Wallet.My.Resources.Resources.minus_96px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Dashboard_Crypto_Currency_Wallet.My.Resources.Resources.multiply_96px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Dashboard_Crypto_Currency_Wallet.My.Resources.Resources.plus_96px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Dashboard_Crypto_Currency_Wallet.My.Resources.Resources.riddle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Dashboard_Crypto_Currency_Wallet.My.Resources.Resources.search_96px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Dashboard_Crypto_Currency_Wallet.My.Resources.Resources.test_passed_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Dashboard_Crypto_Currency_Wallet.My.Resources.Resources.wallet_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
